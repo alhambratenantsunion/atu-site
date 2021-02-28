@@ -28,9 +28,13 @@ twitter_username:
 github_username:
 
 # Build settings
-theme: minima
+# theme: minima
+# 02.26.21 Replaced minima theme with Alembic; see https://github.com/daviddarnes/alembic/issues/167
+remote_theme: alhambratenantsunion/alembic@main
+
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
