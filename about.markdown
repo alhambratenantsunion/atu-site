@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+feature_image: "https://picsum.photos/1300/400?image=989"
 permalink: /about/
 ---
 
