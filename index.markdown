@@ -4,4 +4,4 @@
 title: Home
 ---
 
-<h2>We're a tenant-led and based membership organization fighting for a human right to housing.</h2>
+<h2>We're a tenant-led and based membership organization in Alhambra fighting for housing for all.</h2>

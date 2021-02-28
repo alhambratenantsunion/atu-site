@@ -3,4 +3,7 @@
 permalink: README.html
 ---
 
-This is a draft of the ATU website.
+ATU website draft.
+
+- Built on Jekyll.
+- Theme: Alembic
