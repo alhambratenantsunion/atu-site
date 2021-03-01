@@ -3,6 +3,7 @@
 
 feature_text: |
   # We're a tenant-led membership organization fighting for housing as a human right.
+aside: true
 ---
 
 <center>
