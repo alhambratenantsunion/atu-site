@@ -3,7 +3,8 @@
 
 # todo: #1 fix link after href
 feature_text: |
-  # We're a tenant-led membership-based organization fighting for housing as a human right.
+  <h1>Led, powered, and funded by tenants.</h1>
+  We're fighting for housing as a human right in Alhambra.
   <h2><a href="/about/">Learn more.</a></h2>
 aside: true
 ---
