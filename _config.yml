@@ -155,11 +155,13 @@ navigation_header:
     url: /about/
   - title: Blog
     url: /blog/
+  - title: Contact
+    url: /contact/
   - title: Join
     url: /join/
 
 navigation_footer:
-  - title: Created by the ATU
+  - title: Built by, and for the working class.
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Facebook: https://www.facebook.com/alhambratenantsunion
