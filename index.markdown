@@ -9,14 +9,14 @@ aside: true
 ---
 
 <center>
-<h3>Getting harrassed or evicted?</h3>
+<h4>Getting harrassed or evicted?</h3>
 {% include button.html text="📞 Call or text us" link="tel:626-709-5666" %}
 
-<h3>Want to help?</h3>
+<h4>Want to help?</h3>
 
 {% include button.html text=" 🤝 Volunteer" target="_blank" link="https://docs.google.com/forms/d/e/1FAIpQLSdYwluLdbrzrkjCxreN-7kZ2vDWXHyKDoG5fHnFBQmp4UbD9A/viewform?usp=sf_link"   %}
 
-<h3>Ready to fight back?</h3>  
+<h4>Ready to fight back?</h3>  
   {% include button.html text="✊ Join or Donate" link="/join/" %}
 
 </center>
