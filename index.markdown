@@ -4,6 +4,7 @@
 ---
 
 <center>
+{% include figure.html image="/assets/atu_logo.png" caption="Image of a Key with Alhambra Tenants Union " position="center" %}
 <br>
 <h1 style="font-weight: 900; font-size: 2.5rem;">Led, powered, and funded by tenants.</h1>
   <p style="font-size: 1.5rem;">We're fighting for housing as a human right in Alhambra.</p>
