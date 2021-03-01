@@ -2,7 +2,6 @@
 layout: page
 title: About
 feature_image: "https://picsum.photos/1300/400?image=989"
-permalink: /about/
 ---
 
 Founded in 2020, the Alhambra Tenants Union (“ATU”) is a tenant-led and based membership organization that fights for a human right to housing. As wages have declined and housing is commoditized and speculated on by landlords and real-estate capital, working class tenants—which include all who do not have control over their housing—face displacement, eviction, rising rents, encampment sweeps, and landlord and police harassment.
