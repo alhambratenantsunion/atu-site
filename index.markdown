@@ -1,8 +1,10 @@
 ---
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
+# todo: #1 fix link after href
 feature_text: |
   # We're a tenant-led membership organization fighting for housing as a human right.
+  <h2><a href="/about/">Learn more.</a></h2>
 aside: true
 ---
 
