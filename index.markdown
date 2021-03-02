@@ -9,7 +9,7 @@
 <h1 style="font-weight: 900; font-size: 2.5rem;">Fighting for housing as a human right</h1>
   <p style="font-size: 1.5rem;">Led, powered, and funded by tenants.</p>
   <br>
-{% include button.html text="Learn more" link="/about/" %}
+{% include button.html text="Learn more" link="/atu-site/about/" %}
 <br>
 </center>
 ---
@@ -23,6 +23,6 @@
 <br>
 <br>
 <h4>Ready to fight back?</h4>
-  {% include button.html text="✊ Join or Donate" link="/join/" %}
+  {% include button.html text="✊ Join or Donate" link="/atu-site/join/" %}
 <br>
 </center>
